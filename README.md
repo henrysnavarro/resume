@@ -1,2 +1,2 @@
 # resume
-The latest version of my resume
+Not the latest version of my resume
