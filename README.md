@@ -1,2 +1,2 @@
 # resume
-Not the latest version of my resume
+Please see the accompanying PDF file
